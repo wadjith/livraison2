@@ -1,0 +1,5 @@
+cm.objis.wtt.pharmacie.domaine
+cm.objis.wtt.pharmacie.serverrmi.serveur
+cm.objis.wtt.pharmacie.serverrmi.servicedistant
+cm.objis.wtt.pharmacie.serverrmi.servicedistant.impl
+cm.objis.wtt.pharmacie.serverrmi.util
